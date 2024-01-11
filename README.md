@@ -1,0 +1,2 @@
+# JavaMiniProject
+Corona Survey 
